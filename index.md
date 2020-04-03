@@ -9,5 +9,6 @@ Some of the main factors that we check for a coin/token before listing on our ex
   * The coin/token must be minimum 2 years old since its development.
   * It must have a good community, atleast people should know about this asset.
   * It must have well trading volume as per our needs.
-  * The asset must keep us updated with their ongoing and future developments.<br>
- We may also delist a coin/token if we find anything inappropriate or fake details by refunding 35% of the listing fees.
+  * The asset must keep us updated with their ongoing and future developments.
+  
+  We may also delist a coin/token if we find anything inappropriate or fake details by refunding 35% of the listing fees.
