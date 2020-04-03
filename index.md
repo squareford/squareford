@@ -11,4 +11,4 @@ Some of the main factors that we check for a coin/token before listing on our ex
   * It must have well trading volume as per our needs.
   * The asset must keep us updated with their ongoing and future developments.
   
-  We may also delist a coin/token if we find anything inappropriate or fake details by refunding 35% of the listing fees. We may also delist coins/tokens if it does not have enough trading volume on our exchange or loose popularity after contacting their developers or team.
+  We may also delist a coin/token if we find anything inappropriate or fake details by refunding 35% of the listing fees. We may also delist coins/tokens if it does not have enough trading volume on our exchange or loose popularity. After contacting their developers or team we will delist it.
