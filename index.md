@@ -4,8 +4,10 @@
 ## Contact Details for listing or partnerships:
 <p>Email: squarefordexchange@gmail.com</p>
 ## Information regarding listing of coins/tokens
-<p>Coin/token developers please mail us the details of the coins/tokens beforehand. We will discuss about the asset and listing fees. We will ask for the listing fees when we will start the listing work just before we launch our exchange.<br><br>Please note that, submitting request about assets lising does not mean that your asset will be listed. We will verify each and every asset and if it satisfies our demands then will think of listing it after contacting the developers about the listing fees.</p>
-Some of the main factors that we check for a coin/token before listing oon our exchange:
+<p>Coin/token developers please mail us the details of the coins/tokens beforehand. We will discuss about the asset and listing fees. We will ask for the listing fees when we will start the listing work just before we launch our exchange.<br>Please note that, submitting request about assets lising does not mean that your asset will be listed. We will verify each and every asset and if it satisfies our demands then will think of listing it after contacting the developers about the listing fees.</p><br>
+Some of the main factors that we check for a coin/token before listing on our exchange:
   * The coin/token must be minimum 2 years old since its development.
   * It must have a good community, atleast people should know about this asset.
   * It must have well trading volume as per our needs.
+  * The asset must keep us updated with their ongoing and future developments.
+ We may also delist a coin/token if we find anything inappropriate or fake details by refunding 35% of the listing fees.
